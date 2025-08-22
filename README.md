@@ -13,10 +13,10 @@ Standing at 60 cm tall, the Teenage Erhu is crafted with a modular design; indiv
 ## Design 2: Saxophone Mouthpiece  
 **Designed in Rhinoceros 3D**
 
-<img width="831" height="418" alt="3d-design-2" src="https://github.com/user-attachments/assets/349eccf8-c004-4dc5-88e6-d01ee325df13" />
+<img width="1152" height="720" alt="3d-design-2" src="https://github.com/user-attachments/assets/349eccf8-c004-4dc5-88e6-d01ee325df13" />
 
 
 ## Design 3: Saxophone Reed  
 **Designed in OpenSCAD**
 
-<img width="832" height="489" alt="3d-design-3" src="https://github.com/user-attachments/assets/4d45b3ad-bfab-44c1-b5f7-ef4b6167255c" />
+<img width="1152" height="720" alt="3d-design-3" src="https://github.com/user-attachments/assets/4d45b3ad-bfab-44c1-b5f7-ef4b6167255c" />
